@@ -5,3 +5,14 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/IfyDiaz/secondmethod.git
 	git push -u origin main
+
+DevOps Engineer - Customer Integration Platform
+Your Skills and Experiences
+At least 3 years of professional experience in a similar position
+Knowledge of DevOps tools (Ansible, Vagrant, Jenkins, Zabbix/Nagios,
+or any equivalent tool-set)
+Experience with UNIX/Linux systems (administration or Shell programming)
+Quick learner and ability to work under pressure
+Fluency in spoken & written English
+Experience with XML/XSLT;  EDI/EAI is an advantage
+Ability to participate in regular on-call duty
